@@ -20,4 +20,3 @@ def my_each(array)
   end
   new_collection 
 end 
-end
