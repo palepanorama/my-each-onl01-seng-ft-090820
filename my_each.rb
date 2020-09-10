@@ -23,3 +23,6 @@ def my_each(array)
   new_collection 
 end 
 
+hello(collection) do |i| 
+  "Your name is #{i}"
+end
