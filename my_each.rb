@@ -10,7 +10,7 @@ def my_each(array)
 end
 
 my_each(collection) do |i|
-  puts "So "
+  puts "stringing it with johnny"
 end
 
 def my_each(array)
