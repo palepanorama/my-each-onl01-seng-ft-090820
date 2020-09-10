@@ -9,9 +9,7 @@ def my_each(array)
   end 
 end
 
-my_each(collection) do |i|
-  puts "stringing it with johnny"
-end
+
 
 def my_each(array)
   i = 0 
@@ -22,7 +20,4 @@ def my_each(array)
   end
   new_collection 
 end 
-
-hello(collection) do |i| 
-  "Your name is #{i}"
 end
